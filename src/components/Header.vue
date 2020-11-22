@@ -18,7 +18,7 @@
         
     }
     span {
-        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        font-family: Arial, Helvetica, sans-serif;
         font-size: 150%;
         font-weight: bold;
     }

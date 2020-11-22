@@ -1,22 +1,21 @@
 <template>
   <div>
     <Header />
-
     <div id="container">
       <PainelForm />
-      <PainelContatos />
+      <PainelAgenda />
     </div>
   </div>
 </template>
 
 <script>
-import PainelContatos from './components/PainelContatos.vue'
 import PainelForm from './components/PainelForm.vue'
+import PainelAgenda from './components/PainelAgenda.vue'
 import Header from './components/Header.vue'
 
 export default {
   name: 'App',
-  components: { Header, PainelForm, PainelContatos },
+  components: { Header, PainelForm, PainelAgenda },
 }
 </script>
 
