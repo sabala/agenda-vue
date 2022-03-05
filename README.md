@@ -1,4 +1,4 @@
-# agenda-vue
+# Agenda VUE. Projeto simples de uma agendda usando Vue.js
 
 ## Project setup
 ```
@@ -19,6 +19,3 @@ npm run build
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
